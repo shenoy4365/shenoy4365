@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Arnav S, a student in the Chicagoland area
 
 <!--
 **shenoy4365/shenoy4365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
